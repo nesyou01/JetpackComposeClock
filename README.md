@@ -1,3 +1,3 @@
 # Jetpack Compose Clock Project
 
-![](https://raw.githubusercontent.com/nesyou01/JetpackClock/master/screenshots/screenshot.gif?token=GHSAT0AAAAAABRXCUQESOV3FSFA4R3D5WWIYSJXNVA)
+<img src="https://github.com/nesyou01/JetpackClock/blob/master/screenshots/screenshot.gif?raw=true" width="250" />
